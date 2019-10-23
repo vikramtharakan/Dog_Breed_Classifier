@@ -13,8 +13,7 @@
 
 1. Clone this repository and navigate to the downloaded folder.
 ```	
-git clone https://github.com/udacity/dog-project.git
-cd dog-project
+git clone https://github.com/vikramtharakan/Dog_Breed_Classifier.git
 ```
 
 2. Download the [dog dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip).  Unzip the folder and place it in the repo, at location `path/to/dog-project/dogImages`. 
