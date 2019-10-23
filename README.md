@@ -18,9 +18,10 @@ All of the work is contained in the ipython notebook but there are several steps
 * haarcascades: Folder containing file that performs face recognition. Will be used to determine humans in our data
 * images: Contains various pictures that the notebook will reference
 * saved_models: Saved models from notebook are stored here
-* dog_app.html: HTML version of notebook if you simply want to see the steps taken
-* <b>dog_app.ipynb</b>: Notebook containing steps on how I created the classifier 
 * extract_bottleneck_features.py: extrcts different models stored in keras that we will use for transfer learning
+* dog_app.html: HTML version of notebook if you simply want to see the steps taken
+* <b>dog_app.ipynb: Notebook containing steps on how I created the classifier </b>
+* <b>What-Dog-Breed-do-you-most-Resemble.html: Write-up detailing the process I went through to create the algorithm </b>
 * requirements: N/A
 * CODEOWNERS: N/A
 * LICENSE.txt: N/A
