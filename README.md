@@ -5,9 +5,14 @@
 [image3]: ./images/vgg16_model_draw.png "VGG16 Model Figure"
 
 
-## Project Overview
+## Overview
+This repository contains all the necessary files to train and classify your very own dog classifier! The algorithm works as follows:
+1. The algorithm takes an image and first classifies it as a dog, human, or neither
+2. If the image is a dog, it predicts the dog breed
+3. If the image is a person, it returns the breed that the person resembles the most
+4. If the image is neither, it does not make any prediction
 
-## Project Instructions
+## Files Included
 
 ### Instructions
 
