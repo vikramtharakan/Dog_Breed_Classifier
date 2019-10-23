@@ -6,7 +6,7 @@
 
 
 ## Overview
-This repository contains all the necessary files to train and classify your very own dog classifier! The algorithm works as follows:
+This repository contains all the necessary files to train and classify your very own dog classifier! This project what I chose to do for my capstone project for Udacity's Data Scientist Nanodegree program. The algorithm I created works as follows:
 1. The algorithm takes an image and first classifies it as a dog, human, or neither
 2. If the image is a dog, it predicts the dog breed
 3. If the image is a person, it returns the breed that the person resembles the most
@@ -28,6 +28,7 @@ All of the work is contained in the ipython notebook but there are several steps
 * dog_app-zh.ipynb: N/A
 
 ### Instructions
+<b> Taken directly from Udacity with a few alterations </b>
 
 1. Clone this repository and navigate to the downloaded folder.
 ```	
