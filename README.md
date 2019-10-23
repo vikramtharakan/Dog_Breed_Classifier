@@ -12,7 +12,20 @@ This repository contains all the necessary files to train and classify your very
 3. If the image is a person, it returns the breed that the person resembles the most
 4. If the image is neither, it does not make any prediction
 
+All of the work is contained in the ipython notebook but there are several steps you will need to follow in the instruction section in order to get your workspace setup
+
 ## Files Included
+haarcascades: Folder containing file that performs face recognition. Will be used to determine humans in our data
+images: Contains various pictures that the notebook will reference
+saved_models: Saved models from notebook are stored here
+dog_app.html: HTML version of notebook if you simply want to see the steps taken
+dog_app.ipynb: Notebook containing steps on how I created the classifier 
+extract_bottleneck_features.py: extrcts different models stored in keras that we will use for transfer learning
+requirements: N/A
+CODEOWNERS: N/A
+LICENSE.txt: N/A
+README.md: N/A
+dog_app-zh.ipynb: N/A
 
 ### Instructions
 
