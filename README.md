@@ -21,7 +21,7 @@ All of the work is contained in the ipython notebook but there are several steps
 * extract_bottleneck_features.py: extrcts different models stored in keras that we will use for transfer learning
 * dog_app.html: HTML version of notebook if you simply want to see the steps taken
 * <b>dog_app.ipynb: Notebook containing steps on how I created the classifier </b>
-* <b>What-Dog-Breed-do-you-most-Resemble.html: Write-up detailing the process I went through to create the algorithm </b>
+* <b>What-Dog-Breed-do-you-most-Resemble.html: Write-up detailing the steps taken to create the algorithm</b>
 * requirements: N/A
 * CODEOWNERS: N/A
 * LICENSE.txt: N/A
